@@ -1,1 +1,5 @@
-IyBNQ0ItdGVzdA0KDQpBIHJlcG9zaXRvcnkgZm9yIGV4cGxvcmluZyBhbmQgZXhwZXJpbWVudGluZyB3aXRoIE1DQiBjYXBhYmlsaXRpZXMuDQoNClRoaXMgcmVwb3NpdG9yeSBpcyBkZWRpY2F0ZWQgdG8gZXhwbG9yaW5nIGFuZCBleHBlcmltZW50aW5nIHdpdGggdGhlIGNhcGFiaWxpdGllcyBvZiBNQ0IgKE11bHRpLUNvcGlsb3QtQnV0bGVyKS4=
+# MCB-test
+
+A repository for exploring and experimenting with MCB capabilities.
+
+This repository is dedicated to exploring and experimenting with the capabilities of MCB (Multi-Copilot-Butler).
